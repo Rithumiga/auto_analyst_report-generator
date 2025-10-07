@@ -1,0 +1,7 @@
+Date,City,Product,Category,Units_Sold,Unit_Price,Revenue,Profit
+2025-01-01,New York,Widget A,Electronics,50,20,1000,300
+2025-01-01,New York,Widget B,Electronics,30,35,1050,400
+2025-01-01,Los Angeles,Gadget X,Home,40,15,600,150
+2025-01-01,Los Angeles,Gadget Y,Home,25,25,625,200
+2025-01-02,New York,Widget A,Electronics,60,20,1200,360
+2025-01-02,New York,Widget B,Electronics,28,35,980,380
